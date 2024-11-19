@@ -3,7 +3,7 @@ some custom bubbletea components
 
 ## Components
 ### Multiselect but with sections/groups
-![./gifs/multiselectgroup.gif]
+![multiselectgroup.gif](./gifs/multiselectgroup.gif)
 
 ```go
 package main
