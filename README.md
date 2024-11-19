@@ -2,7 +2,7 @@
 some custom bubbletea components
 
 ## Components
-### Multiselect but with sections/groups
+### Like [huh's](https://github.com/charmbracelet/huh) Multiselect but with groups that can be seamlessly jump between groups
 ![multiselectgroup.gif](./gifs/multiselectgroup.gif)
 
 ```go
